@@ -4,15 +4,19 @@
     "room": "Ahmanson",
     "fullName": "Ahmanson Foundation",
     "building": "Arts Building",
-    "date": "N/A",
-    "profession": "N/A",
-    "imageName": "TBD",
+    "date": "Founded in 1952",
+    "profession": "Non-Profit Foundation",
+    "imageName": "amhanson",
     "imageExtension": ".png",
     "longitude": -118.4733551,
     "latitude": 34.0240744,
     "floor": "TBD",
-    "blurb": "N/A",
-    "quote": "N/A"
+    "blurb": "The Ahmanson Foundation serves Los Angeles County by funding cultural projects in the\narts and humanities, education at all levels, health care, programs related to homelessness and underserved populations as well as a wide range of human services.",
+    "quote": "N/A",
+    "": "",
+    "Email": "Ethan.L23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 2,
@@ -27,7 +31,11 @@
     "latitude": 34.0242,
     "floor": "2nd Floor",
     "blurb": "Muhammad ibn Musa al-Khwarizm was an academic from Khwarazm, who made important developments in Mathematics, particularly algebra, astronomy, and geography",
-    "quote": "When I consider what people generally want in calculating, I found that it always is a number."
+    "quote": "When I consider what people generally want in calculating, I found that it always is a number.",
+    "": "",
+    "Email": "Harry.W23@k12.xrds.org",
+    "Status": "Pending",
+    "__1": "Missing Image"
   },
   {
     "id": 3,
@@ -42,7 +50,11 @@
     "latitude": 34.0242,
     "floor": "2nd Floor",
     "blurb": "Maya Angelou was an African American writer and civil rights activist whose poetry and prose inspired countless readers around the world. Best known for her powerful memoir, \"I Know Why the Caged Bird Sings,” Angelou was also a Tony-nominated actress and a Grammy-winning singer and spoken-word artist. She was an active leader in the civil rights movement and received the Presidential Medal of Freedom in 2011.",
-    "quote": "Courage is the most important of all the virtues, because without courage you can't practice any other virtue consistently.”"
+    "quote": "Courage is the most important of all the virtues, because without courage you can't practice any other virtue consistently.”",
+    "": "",
+    "Email": "Hudson.A24@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 4,
@@ -57,14 +69,18 @@
     "latitude": 34.0241916,
     "floor": "1st Floor",
     "blurb": "Archimedes, was the most famous mathematician and inventor in ancient Greece. Archimedes is especially important for his discovery of the relation between the surface and volume of a sphere and its circumscribing cylinder. He is known for his formulation of a hydrostatic principle (known as Archimedes’ principle) and a device for raising water, still used, known as the Archimedes screw.",
-    "quote": "Give me a lever long enough and a fulcrum on which to place it, and I shall move the world."
+    "quote": "Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.",
+    "": "",
+    "Email": "Brody.A24@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 5,
     "room": "Bass",
     "fullName": "Elaine and Saul Bass",
     "building": "Pac Air",
-    "date": "1920-1996        1927-present",
+    "date": "1920-1996",
     "profession": "Graphic Designer",
     "imageName": "bass",
     "imageExtension": ".jpg",
@@ -72,7 +88,11 @@
     "latitude": 34.02517885,
     "floor": "1st Floor",
     "blurb": "For more than 40 years, Oscar winners Saul and Elaine Bass created some of the most iconic film title sequences of the 20th century. Modern opening title sequences that introduce the mood or theme of a film are a legacy of their work, establishing movie credit sequences as artistic achievements in their own right. Saul Bass designed movie posters and created title sequences for some of Alfred Hitchcock’s most memorable films, including \"Vertigo,” \"North by Northwest” and \"Psycho.” He and Elaine collaborated on title sequences for films as varied as \"West Side Story,” \"Spartacus” and \"Goodfellas.” Through their artistic partnership, the couple aimed to \"reach for a simple visual phrase that evokes the essence of the story” and have influenced countless other designers.",
-    "quote": "You write a book of 300 to 400 pages and then you boil it down to a script of maybe 100 to 150 pages. Eventually you have the pleasure of seeing that the Basses have knocked you right out of the ballpark: They have boiled it down to four minutes flat.\" -Screenwriter Nicholas Pileggi"
+    "quote": "You write a book of 300 to 400 pages and then you boil it down to a script of maybe 100 to 150 pages. Eventually you have the pleasure of seeing that the Basses have knocked you right out of the ballpark: They have boiled it down to four minutes flat.\" -Screenwriter Nicholas Pileggi",
+    "": "",
+    "Email": "Bodie.W25@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 6,
@@ -81,13 +101,17 @@
     "building": "Arts Building",
     "date": "1918-1990",
     "profession": "Conductor",
-    "imageName": "Bernstein",
+    "imageName": "bernstein",
     "imageExtension": ".jpg",
     "longitude": -118.4737159,
     "latitude": 34.02517885,
     "floor": "2nd Floor",
     "blurb": "Leonard Bernstein was an American composer. He received seven emmy awards, two Tony, and sixteen Grammy awards, a lifetime achievement awards, and a Kennedy Center Honor.  While he is most known for his Musical West Side Story, he also composed three symphonies, and wrote the score for On the Waterfront. However, he devoted his life outside the Orchestral pit to humanitarian issues. He raised money during the HIV/AIDS crisis, and, in 1989, he conducted a historic performance in Berlin of Beethoven's 9th symphony to celebrate the fall of the Berlin Wall.",
-    "quote": "To achieve great things, two things are needed: a plan and not quite enough time."
+    "quote": "To achieve great things, two things are needed: a plan and not quite enough time.",
+    "": "",
+    "Email": "Navid.R23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 7,
@@ -97,12 +121,16 @@
     "date": "1915-2015",
     "profession": "Activist, Author, Feminist, Philosopher",
     "imageName": "boggs",
-    "imageExtension": ".jpg",
-    "longitude": 0,
-    "latitude": 0,
-    "floor": "TBD",
+    "imageExtension": ".png",
+    "longitude": -118.4727163,
+    "latitude": 34.02441943,
+    "floor": "1st floor",
     "blurb": "Grace Lee Boggs was a first-generation Chinese American who worked to create change by translating lofty philosophical ideals into grassroots activism.. Born in Providence and raised in New York, she earned a P.h.D. in philosophy but saw herself as a revolutionary, critical of capitalism and angered by social inequities. In Detroit, she met and married the African American auto worker and activist Jimmy Boggs. Together, they were active in the Civil Rights and Black Power movements of the 1950s and ’60s and were leading organizers for workers’ rights and racial justice in Detroit. At the age of 97, Boggs published \"The Next American Revolution: Sustainable Activism for the Twenty-First Century,” which lays out her vision for intersectional and anti-racist activism.",
-    "quote": "As I've grown older, I've realized that philosophy has to do with how we value ourselves as human beings, and how we look at ourselves, and how we relate to reality."
+    "quote": "As I've grown older, I've realized that philosophy has to do with how we value ourselves as human beings, and how we look at ourselves, and how we relate to reality.",
+    "": "",
+    "Email": "Jude.S23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 8,
@@ -117,7 +145,11 @@
     "latitude": 34.0242,
     "floor": "TBD",
     "blurb": "Octavia E. Butler, the first science-fiction author to receive a MacArthur fellowship, wrote stories of futuristic societies and superhuman powers. Butler’s works feature African American women as central figures and heroes; complex, fully realized imaginary worlds; and well-researched use of scientific theory and fact. Readers continue to love her award-winning books and the way she used science fiction to illustrate issues of social justice and human compassion.",
-    "quote": "All that you touch you change. All that you change changes you.”"
+    "quote": "All that you touch you change. All that you change changes you.”",
+    "": "",
+    "Email": "Dara.I23@k12.xrds.org",
+    "Status": "_______",
+    "__1": ""
   },
   {
     "id": 9,
@@ -132,7 +164,11 @@
     "latitude": 34.02517885,
     "floor": "1st Floor",
     "blurb": "Julia Margaret Cameron’s pioneering photographic work was revolutionary. Rejecting most of the photographic conventions of the mid-19th century, Cameron employed the use of soft focus and a multitude of tonal alterations in order to align her images within the realm of fine art. Seen as bold and expressive, her photographs consistently pushed the boundaries of what the art form could achieve.",
-    "quote": "I longed to arrest all the beauty that came before me and at length the longing has been satisfied.”"
+    "quote": "I longed to arrest all the beauty that came before me and at length the longing has been satisfied.”",
+    "": "",
+    "Email": "Luke.A23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 10,
@@ -142,12 +178,16 @@
     "date": "1907-1964",
     "profession": "Marine Biologist, Ecologist, Author, Activist, Professor",
     "imageName": "carson",
-    "imageExtension": ".jpg",
+    "imageExtension": ".jpeg",
     "longitude": -118.473956,
     "latitude": 34.023743,
     "floor": "1st Floor",
     "blurb": "While conducting research for the U.S. government, Rachel Carson grew concerned about the negative impact of synthetic\nchemicals on the environment. In 1962 she published Silent Spring, a book that details how pesticides were devastating wildlife,\nespecially birds. Silent Spring became a symbolic centerpiece for a growing movement of environmentalists and helped pave the\nway for the eventual banning of the pesticide DDT and the formation of the Environmental Defense Fund and the Environmental\nProtection Agency.",
-    "quote": "Those who dwell among the beauties and mysteries of the earth are never alone or weary of life.”"
+    "quote": "Those who dwell among the beauties and mysteries of the earth are never alone or weary of life.”",
+    "": "",
+    "Email": "Ry.N24@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 11,
@@ -157,12 +197,16 @@
     "date": "~1864-1943",
     "profession": "Botatnist, Agronomist, Professor, Inventor, Painter",
     "imageName": "carver",
-    "imageExtension": ".jpg",
+    "imageExtension": ".jpeg",
     "longitude": -118.473956,
     "latitude": 34.023743,
     "floor": "3rd Floor",
     "blurb": "As an agronomist and scientist, George Washington Carver forever changed farming in the South and in the United States. Carver taught in the Agriculture Department of the Tuskegee Institute for 47 years. He invented the \"Jesup Wagon,\" a mobile classroom that he brought to farmers on their land. After the Civil War, the overreliance on cotton as the primary crop in the South resulted in devastating losses to farmers. Carver promoted alternative crops such as sweet potatoes, soy beans and peanuts that could provide sustenance and be used in products useful in their daily lives, like cosmetics, dyes, paints and oils.",
-    "quote": "Since new developments are the products of a creative mind, we must therefore stimulate and encourage that type of mind in every way possible."
+    "quote": "Since new developments are the products of a creative mind, we must therefore stimulate and encourage that type of mind in every way possible.",
+    "": "",
+    "Email": "Andy.S24@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 12,
@@ -177,7 +221,11 @@
     "latitude": 34.0243,
     "floor": "2nd Floor",
     "blurb": "Early Modern Spanish author Miguel de Cervantes Saavedra is regarded as the finest author in the Spanish language and one of the best novels in history. His most famous work, Don Quixote, is frequently recognized as both the first modern novel and one of the greatest works of literature ever written.",
-    "quote": "To be prepared is half the victory."
+    "quote": "To be prepared is half the victory.",
+    "": "",
+    "Email": "Levi.G23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 13,
@@ -192,7 +240,11 @@
     "latitude": 34.02441943,
     "floor": "1st Floor",
     "blurb": "Raymond Chandler was an American-British author whose detective stories elevated crime fiction to a literary genre. In the early 1930s, Chandler began writing stories for the cheap, popular magazines known as \"pulp fiction” and soon after published his first novel. His style combines sophisticated, poetic language with crime jargon, underworld slang and a street-wise attitude. After several of his books were made into movies, Chandler began working as a screenwriter, adapting his own stories and collaborating with well-known Hollywood writers and directors on the gritty, stylized crime movies known as film noir. The classrooms Christie and Chandler are named for writers of detective stories to honor the \"mysteries” that the Life Skills program seeks to explore.",
-    "quote": "Everything written with vitality expresses that vitality: There are no dull subjects, only dull minds.”"
+    "quote": "Everything written with vitality expresses that vitality: There are no dull subjects, only dull minds.”",
+    "": "",
+    "Email": "Jake.M23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 14,
@@ -207,7 +259,11 @@
     "latitude": 34.0242,
     "floor": "1st Floor",
     "blurb": "Cesar Chavez, a first-generation American whose parents came from Mexico, devoted his life to improving the conditions of migrant farm workers. He founded the National Farm Workers Association and led a five-year California grape pickers’ strike and a nationwide boycott of California grapes. Although the growers used racist ideology and violence to intimidate the strikers, Chavez and his followers practiced nonviolence in response. The strikers received national support, and most growers were forced to sign contracts offering better conditions for workers. Today, Chavez is celebrated as a fighter for the dignity of workers in our nation.",
-    "quote": "You cannot un-educate the person who has learned to read. You cannot humiliate the person who feels pride. You cannot oppress the people who are not afraid anymore.”"
+    "quote": "You cannot un-educate the person who has learned to read. You cannot humiliate the person who feels pride. You cannot oppress the people who are not afraid anymore.”",
+    "": "",
+    "Email": "Dylan.G24@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 15,
@@ -216,13 +272,17 @@
     "building": "Trives Admin",
     "date": "N/A",
     "profession": "N/A",
-    "imageName": "TBD",
+    "imageName": "choralroom",
     "imageExtension": ".png",
     "longitude": -118.47398,
     "latitude": 34.02452,
     "floor": "1st Floor",
     "blurb": "Room in the admin building",
-    "quote": ""
+    "quote": "",
+    "": "",
+    "Email": "Paige.B23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 16,
@@ -232,12 +292,16 @@
     "date": "1890-1976",
     "profession": "Novelist, Playwright, World Traveler",
     "imageName": "christie",
-    "imageExtension": ".jpg",
+    "imageExtension": ".jpeg",
     "longitude": -118.4727163,
     "latitude": 34.02441943,
     "floor": "2nd Floor",
     "blurb": "Agatha Christie is the best-selling novelist of all time, with over a billion copies of her books in English sold and another billion in translation. She is the author of 66 crime novels as well as numerous short stories and plays. Known for their plot twists and surprise endings, her mysteries originated many of the literary devices that have become standard in the genre. Christie’s writing draws readers into the process of following clues and piecing together evidence, often guided by one of her iconic detectives, Hercule Poirot and Miss Marple. The classrooms Christie and Chandler are named for writers of detective stories to honor the \"mysteries” that the Life Skills program seeks to explore.",
-    "quote": "The truth, however ugly in itself, is always curious and beautiful to seekers after it.”"
+    "quote": "The truth, however ugly in itself, is always curious and beautiful to seekers after it.”",
+    "": "",
+    "Email": "Kate.J23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 17,
@@ -252,7 +316,11 @@
     "latitude": 34.02517885,
     "floor": "1st Floor",
     "blurb": "John Coltrane was among the most prominent jazz saxophonists of the 20th century. He helped pioneer modal and free jazz and brought a level of spirituality to his music. He sought to spread joy through his music, making deep connections with his audiences while working for a larger, greater good in society. His classic 1965 album, \"A Love Supreme,” is widely regarded as one of the greatest jazz albums of all time. He was posthumously honored with the Grammy Lifetime Achievement Award.",
-    "quote": "I know that there are bad forces, forces that bring suffering to others and misery to the world. I want to be the opposite force. I want to be the force which is truly for good.”"
+    "quote": "I know that there are bad forces, forces that bring suffering to others and misery to the world. I want to be the opposite force. I want to be the force which is truly for good.”",
+    "": "",
+    "Email": "Cole.Z23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 18,
@@ -262,27 +330,35 @@
     "date": "1910-1997",
     "profession": "Oceanographer, Inventor, Activist, Author, Filmmaker",
     "imageName": "cousteau",
-    "imageExtension": ".jpg",
+    "imageExtension": ".jpeg",
     "longitude": -118.473956,
     "latitude": 34.023743,
     "floor": "1st Floor",
     "blurb": "By sharing his expeditions aboard the scientific vessel Calypso in his long-running television series The Undersea World of Jacques\nCousteau, Cousteau raised the world’s consciousness about the fragile wonders of the sea and inspired a new generation to become\nadvocates for a more sustainable way of life. In 1974 he founded the Cousteau Society, \"dedicated to the protection and improvement\nof the quality of life for present and future generations.”",
-    "quote": "When one man, for whatever reason, has the opportunity to lead an extraordinary life, he has no right to keep it to himself.”"
+    "quote": "When one man, for whatever reason, has the opportunity to lead an extraordinary life, he has no right to keep it to himself.”",
+    "": "",
+    "Email": "Jonah.R23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 19,
     "room": "Cruz",
-    "fullName": "Firstname Cruz",
+    "fullName": "Cruz",
     "building": "Arts Building",
     "date": "TBD",
     "profession": "TBD",
     "imageName": "TBD",
     "imageExtension": ".png",
-    "longitude": 0,
-    "latitude": 0,
+    "longitude": -118.473956,
+    "latitude": 34.023743,
     "floor": "TBD",
     "blurb": "TBD",
-    "quote": "TBD"
+    "quote": "TBD",
+    "": "",
+    "Email": "Nathan.G24@K12.xrds.org",
+    "Status": "_______",
+    "__1": ""
   },
   {
     "id": 20,
@@ -297,7 +373,11 @@
     "latitude": 34.023743,
     "floor": "2nd Floor",
     "blurb": "Marie Curie was a Polish-born French scientist whose research laid the foundation for the field of atomic physics. Curie discovered\nthat the radiation emanating from uranium had to be coming from the element’s atomic structure, and coined the word \"radioactivity.”\nShe worked closely with her husband, Pierre, in the laboratory; together, they discovered and named elements 84 and 88, polonium\nand radium, respectively. In 1903 Curie became the first woman ever to win the Nobel Prize in Physics, and in 1911, she became\nthe first person to ever win two Nobel Prizes when she was honored with the Nobel Prize in Chemistry.",
-    "quote": "Nothing in life is to be feared; it is only to be understood. Now is the time to understand more, so that we may fear less.”"
+    "quote": "Nothing in life is to be feared; it is only to be understood. Now is the time to understand more, so that we may fear less.”",
+    "": "",
+    "Email": "Jaden.L24@K12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 21,
@@ -312,7 +392,11 @@
     "latitude": 34.023743,
     "floor": "3rd Floor",
     "blurb": "The extraordinarily talented and versatile Leonardo da Vinci has come to epitomize the Renaissance ideal. His scientific mind\ninformed the mastery of his art, and his artistic imagination advanced his scientific exploration. His anatomical drawings—\nincluding the first-ever drawing of a fetus in utero—advanced the study of human biology. His myriad inventions reveal thinking\nbeyond anyone of his era, including proposed single-span bridges, musical instruments, hydraulic pumps, a steam cannon, flying\nmachines and a parachute. His iconic drawings and paintings are recognized around the globe, including Vitruvian Man, Mona\nLisa and The Last Supper.",
-    "quote": "Learning never exhausts the mind.”"
+    "quote": "Learning never exhausts the mind.”",
+    "": "",
+    "Email": "Sirui.T24@K12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 22,
@@ -327,7 +411,11 @@
     "latitude": 34.023743,
     "floor": "2nd Floor",
     "blurb": "John Dalton’s research laid the foundation for modern atomic theory. His observations of gas behavior led him to formulate his\nLaw of Partial Pressures, and led him to develop the first scientific model of matter being composed of indivisible particles.\nDalton dubbed these building blocks of matter particles \"atoms” from the Greek word for \"indivisible,” in homage to Democritus,\nan ancient Greek philosopher who postulated a similar atomistic view of matter.",
-    "quote": "Matter, though visible in an extreme degree, is nevertheless not infinitely divisible. That is, there must be some point\nbeyond which we cannot go in the division of matter. I have chosen the word \"atom” to signify these ultimate particles.”"
+    "quote": "Matter, though visible in an extreme degree, is nevertheless not infinitely divisible. That is, there must be some point\nbeyond which we cannot go in the division of matter. I have chosen the word \"atom” to signify these ultimate particles.”",
+    "": "",
+    "Email": "Lucas.K24@K12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 23,
@@ -342,7 +430,11 @@
     "latitude": 34.023743,
     "floor": "1st Floor",
     "blurb": "N/A",
-    "quote": "N/A"
+    "quote": "N/A",
+    "": "",
+    "Email": "Ethan.L23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 24,
@@ -357,7 +449,11 @@
     "latitude": 34.023743,
     "floor": "3rd Floor",
     "blurb": "Charles Darwin revolutionized the study of living things. Starting at age 22, he served as the naturalist aboard HMS Beagle\nduring a global survey voyage. His observations of the diversity of life, and in particular his observations of finch variations\nliving on the Galapagos Islands, led to his development of his theory of species evolution via natural selection. In 1859 Darwin\npublished his views in the book On the Origin of Species, which explained how species adapt to their changing environments\nthrough diversification. In his 1871 book The Descent of Man he showed that humans, too, are animals bound by the same laws\nof selection as the rest of the animal kingdom.",
-    "quote": "In the long history of humankind (and animal kind, too), those who learned to collaborate and improvise most\neffectively have prevailed.”"
+    "quote": "In the long history of humankind (and animal kind, too), those who learned to collaborate and improvise most\neffectively have prevailed.”",
+    "": "",
+    "Email": "Harry.W23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 25,
@@ -372,7 +468,11 @@
     "latitude": 34.0241916,
     "floor": "1st Floor",
     "blurb": "René Descartes was a French philosopher, scientist, and mathematician, widely considered a seminal figure in the emergence of modern philosophy and science. Mathematics was central to his method of inquiry, and he connected the previously separate fields of geometry and algebra into analytic geometry.",
-    "quote": "I think, therefore I am."
+    "quote": "I think, therefore I am.",
+    "": "",
+    "Email": "Hudson.A24@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 26,
@@ -387,37 +487,49 @@
     "latitude": 34.0241944,
     "floor": "1st Floor",
     "blurb": "John Dewey was an American psychologist, philosopher and educational reformer. He is considered one of the founders of the progressive education movement, emphasizing democracy and social reform as its foundational elements. He argued that the role of education was not for students to merely acquire a set of predetermined skills and knowledge, but to develop their full human potential through experiential learning and critical thinking. Dewey believed that promoting a spirit of service and community within the classroom would result in \"a larger society which is worthy, lovely and harmonious.",
-    "quote": "Cease conceiving of education as mere preparation for later life, and make it the full meaning of the present life.”"
+    "quote": "Cease conceiving of education as mere preparation for later life, and make it the full meaning of the present life.”",
+    "": "",
+    "Email": "Brody.A24@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 27,
     "room": "Dill",
-    "fullName": "Dill",
+    "fullName": "Laddie John Dill",
     "building": "Arts Building",
-    "date": "TBD",
-    "profession": "TBD",
-    "imageName": "TBD",
-    "imageExtension": ".png",
+    "date": "1943 - Present",
+    "profession": "Artist",
+    "imageName": "dill",
+    "imageExtension": ".jpeg",
     "longitude": -118.4743849,
     "latitude": 34.0241944,
     "floor": "TBD",
     "blurb": "TBD",
-    "quote": "TBD"
+    "quote": "TBD",
+    "": "",
+    "Email": "Bodie.W25@k12.xrds.org",
+    "Status": "Pending",
+    "__1": ""
   },
   {
     "id": 28,
     "room": "Donnelley",
-    "fullName": "Donnelley",
+    "fullName": "Gaylord Donnelley",
     "building": "Cummins Library",
-    "date": "TBD",
-    "profession": "TBD",
-    "imageName": "TBD",
-    "imageExtension": ".png",
+    "date": "1910-1992",
+    "profession": "Commercial printing, Logistics and Supply chain, Digital marketing",
+    "imageName": "donnelley",
+    "imageExtension": ".jpg",
     "longitude": -118.4741697,
     "latitude": 34.0241916,
     "floor": "2nd Floor",
-    "blurb": "TBD",
-    "quote": "TBD"
+    "blurb": "Gaylord Donnelley was an American businessman and philanthropist. He was the founder of R. R. Donnelley & Sons Company, a printing and publishing company that became one of the largest in the world. Donnelley was known for his commitment to philanthropy and environmental conservation, and he established several foundations to support these causes. He was also an active member of the Chicago community and was involved in various cultural and educational organizations. Despite his success in business and philanthropy, Donnelley was known for his humility and dedication to his family.",
+    "quote": "To be a good printer, one must have commitment",
+    "": "",
+    "Email": "Navid.R23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 29,
@@ -427,12 +539,16 @@
     "date": "Feb. 11, 1847-Oct. 18, 1931",
     "profession": "Inventor",
     "imageName": "edison",
-    "imageExtension": ".jpg",
+    "imageExtension": ".png",
     "longitude": -118.47351,
     "latitude": 34.0242,
-    "floor": "TBD",
+    "floor": "2nd Floor",
     "blurb": "Thomas Alva Edison is considered America’s greatest inventor, acquiring a record-setting 1,093 patents. He was the driving force behind the phonograph, the incandescent light bulb and one of the earliest motion-picture cameras. He also created the world’s first industrial research laboratory and was a successful manufacturer and businessman, highly skilled at marketing his inventions to the public. Amazingly, he received little formal education, leaving school when he was 12 years old to work on the railroad to help support his rural Ohio family",
-    "quote": "I never did anything worth doing by accident ... No, when I have fully decided that a result is worth getting, I go about it, and make trial after trial, until it comes.”"
+    "quote": "I never did anything worth doing by accident ... No, when I have fully decided that a result is worth getting, I go about it, and make trial after trial, until it comes.”",
+    "": "",
+    "Email": "Jude.S23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 30,
@@ -442,27 +558,35 @@
     "date": "1879-1955",
     "profession": "Theoretical Physicist, Political Activist, Civil Rights Advocate, Violinist",
     "imageName": "einstein",
-    "imageExtension": ".jpg",
+    "imageExtension": ".jpeg",
     "longitude": -118.473956,
     "latitude": 34.023743,
     "floor": "2nd Floor",
     "blurb": "Albert Einstein’s revolutionary ideas have influenced countless discoveries and laid the groundwork for incalculable advancements\nin science. In 1905—dubbed his annus miribilis, or miracle year—Einstein published four papers that shaped the future of science\nand cemented his reputation as a genius. The four papers explained: 1) the photoelectric effect; 2) Brownian motion; 3) his theory\nof special relativity; and 4) the notion that energy and matter are equivalent as shown in the equation E = mc2. In 1922, he was\nawarded the Nobel Prize in Physics for his work on the photoelectric effect.",
-    "quote": "The most beautiful thing we can experience is the mysterious. It is the source of all true art and science.”"
+    "quote": "The most beautiful thing we can experience is the mysterious. It is the source of all true art and science.”",
+    "": "",
+    "Email": "Dara.I23@k12.xrds.org",
+    "Status": "_______",
+    "__1": ""
   },
   {
     "id": 31,
     "room": "Erdrich",
     "fullName": "Louise Erdrich",
     "building": "Humanities Building",
-    "date": "1954-",
+    "date": "1954 - Present",
     "profession": "Author",
     "imageName": "erdrich",
-    "imageExtension": ".jpg",
+    "imageExtension": ".png",
     "longitude": -118.4743849,
     "latitude": 34.0241944,
     "floor": "1st Floor",
     "blurb": "Louise Erdrich is a Minnesota-born writer of novels, short stories, poetry and children’s books. Erdrich is of German, French and Ojibwe ancestry; her grandfather served as tribal chair of the Chippewa. She often portrays Native Americans in modern life as she explores the deeper meanings of humanity. Her novel \"The Plague of Doves” was a finalist for the Pulitzer Prize in Fiction. She was awarded the National Book Award for Fiction for her novel \"Round House” and received the 2015 Library of Congress Prize for American Fiction.",
-    "quote": "When we are young, the words are scattered all around us. As they are assembled by experience, so also are we, sentence by sentence, until the story takes shape.”"
+    "quote": "When we are young, the words are scattered all around us. As they are assembled by experience, so also are we, sentence by sentence, until the story takes shape.”",
+    "": "",
+    "Email": "Luke.A23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 32,
@@ -477,7 +601,11 @@
     "latitude": 34.02441943,
     "floor": "3rd Floor",
     "blurb": "Bolivian-born Jaime Alfonso Escalante Gutiérrez was a physics and math teacher who moved to the U.S. in 1963. His first job was as a busboy in a coffee shop across the street from Pasadena City College, where he began taking English classes. In 1974, he was hired to teach math at Garfield High School in East Los Angeles, which struggled with low student test scores and high dropout rates. Undaunted, Escalante developed a rigorous math program, eventually offering a hugely successful Advanced Placement Calculus course. Escalante’s unconventional and charismatic teaching approach and his students’ academic achievements are the basis for the 1988 film \"Stand and Deliver.”",
-    "quote": "Each of us remembers a great teacher. The one who touched our lives. I’m proud to be a teacher.”"
+    "quote": "Each of us remembers a great teacher. The one who touched our lives. I’m proud to be a teacher.”",
+    "": "",
+    "Email": "Ry.N24@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 33,
@@ -487,12 +615,16 @@
     "date": "1170-1240",
     "profession": "Mathmatitian",
     "imageName": "fibonacci",
-    "imageExtension": ".jpg",
+    "imageExtension": ".jpeg",
     "longitude": -118.47351,
     "latitude": 34.0242,
     "floor": "1st Floor",
     "blurb": "Fibonacci (born Leonardo Pisano) was an Italian mathematician who introduced the Arabic numeral system to Europe. He wrote several texts on the subject: In one such book, the first seven chapters deal entirely with the notion of place value. He worked with irrational and prime numbers, but he is most widely remembered for the Fibonacci sequence. In this mathematical formula, each number in the sequence is the sum of the previous two numbers. This is commonly denoted as Fn.",
-    "quote": "If by chance I have omitted anything more or less proper or necessary, I beg forgiveness, since there is no one who is without fault and circumspect in all matters.”"
+    "quote": "If by chance I have omitted anything more or less proper or necessary, I beg forgiveness, since there is no one who is without fault and circumspect in all matters.”",
+    "": "",
+    "Email": "Andy.S24@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 34,
@@ -502,12 +634,16 @@
     "date": "1917-1996",
     "profession": "American Jazz Singer",
     "imageName": "fitzgerald",
-    "imageExtension": ".jpg",
+    "imageExtension": ".JPG",
     "longitude": -118.4737159,
     "latitude": 34.02517885,
     "floor": "1st Floor",
     "blurb": "Known as the First Lady of Song, Ella Fitzgerald was a uniquely gifted and influential jazz vocalist. Her pure tone, impeccable diction, phrasing, intonation and unprecedented scat singing make her voice immediately recognizable to jazz and music fans everywhere. Among her many distinctions is being the first African American woman to win a Grammy Award. She received the Presidential Medal of Freedom in 1992.",
-    "quote": "Just don't give up trying to do what you really want to do. Where there is love and inspiration, I don’t think you can go wrong.”"
+    "quote": "Just don't give up trying to do what you really want to do. Where there is love and inspiration, I don’t think you can go wrong.”",
+    "": "",
+    "Email": "Levi.G23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 35,
@@ -522,7 +658,11 @@
     "latitude": 34.0243,
     "floor": "1st Floor",
     "blurb": "Gustave Flaubert was known as the father of the realism school of French literature, Gustave Flaubert is best known for his masterwork, Madame Bovary, a realistic depiction of bourgeois life that sparked a court case over claims of immorality.",
-    "quote": "Be steady and well-ordered in your life so that you can be fierce and original in your work.”"
+    "quote": "Be steady and well-ordered in your life so that you can be fierce and original in your work.”",
+    "": "",
+    "Email": "Jake.M23@k12.xrds.org",
+    "Status": "_______",
+    "__1": ""
   },
   {
     "id": 36,
@@ -537,7 +677,11 @@
     "latitude": 34.023743,
     "floor": "1st Floor",
     "blurb": "Galileo Galilei’s work was at the center of the scientific revolution of the 17th century. His theories on motion and falling bodies\nled to his development of the universal law of acceleration. He developed an improved telescope that revealed to the world\nsunspots, the moons of Jupiter and the craters and mountains of Earth’s moon. His abundant astronomical observations\nprovided scientific data that supported the sun-centered Copernican theory of planetary motion over the Aristotelian belief and\nChurch doctrine that the sun and planets revolved around the Earth.",
-    "quote": "In questions of science, the authority of a thousand. is not worth the humble reasoning of a single individual.”"
+    "quote": "In questions of science, the authority of a thousand. is not worth the humble reasoning of a single individual.”",
+    "": "",
+    "Email": "Dylan.G24@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 37,
@@ -547,19 +691,23 @@
     "date": "1898-1936",
     "profession": "Spanish poet, dramatist and theatre director",
     "imageName": "garcialorca",
-    "imageExtension": ".jpg",
+    "imageExtension": ".jpeg",
     "longitude": -118.47442,
     "latitude": 34.0243,
     "floor": "1st Floor",
     "blurb": "The Spanish poet, dramatist, and theater director Federico del Sagrado Corazón de Jess Garcia Lorca is most known for his work. Garca Lorca attained fame on a global scale as a representative member of the Generation of '27, a group mostly made up of poets who infused Spanish writing with the ideas of European movements like symbolism, futurism, and surrealism.",
-    "quote": "To burn with desire and keep quiet about it is the greatest punishment we can bring on ourselves.”"
+    "quote": "To burn with desire and keep quiet about it is the greatest punishment we can bring on ourselves.”",
+    "": "",
+    "Email": "Paige.B23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 38,
     "room": "Goodall",
     "fullName": "Jane Goodall",
     "building": "Science Building",
-    "date": "1934-present",
+    "date": "1934 - Present",
     "profession": "Biologist, Environmental Advocate, Primatologist, , Anthropologist, UN Messenger of Peace",
     "imageName": "goodall",
     "imageExtension": ".jpg",
@@ -567,27 +715,35 @@
     "latitude": 34.023743,
     "floor": "1st Floor",
     "blurb": "Jane Goodall changed the way we look at ourselves as part of the animal kingdom through her groundbreaking research on\nchimpanzees in Tanzania. In the 1960s she assimilated herself into a community of chimpanzees, imitating their behaviors and\nsharing their food. Her intimate observations made possible discoveries regarding the chimps’ complex social system, language,\nuse of tools and weapons, and carnivorous practices. She revealed previously unimagined similarities between humans and our\nclosest primate cousins. Throughout her life, Goodall has been an activist for the ethical treatment of all animals, promoting\necotourism to preserve the habitats of endangered species.",
-    "quote": "Change happens by listening and then starting a dialogue with the people who are doing something you don’t believe is right.”"
+    "quote": "Change happens by listening and then starting a dialogue with the people who are doing something you don’t believe is right.”",
+    "": "",
+    "Email": "Kate.J23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 39,
     "room": "Gymnasium",
     "fullName": "Gymnasium",
     "building": "Sports Center",
-    "date": "N/A",
+    "date": "Founded in 2000",
     "profession": "N/A",
     "imageName": "TBD",
     "imageExtension": ".png",
     "longitude": -118.47351,
     "latitude": 34.0242,
     "floor": "1st Floor",
-    "blurb": "N/A",
-    "quote": "N/A"
+    "blurb": "The K-12 sports center adjacent to the Norton Campus featuring a gymnasium, swimming pool, athletics field and a community room.",
+    "quote": "N/A",
+    "": "",
+    "Email": "Cole.Z23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 40,
     "room": "Hadid",
-    "fullName": "Bella Hadid",
+    "fullName": "Zaha Hadid",
     "building": "Lushing",
     "date": "1950-2016",
     "profession": "Architect, Artist, Designer",
@@ -597,7 +753,11 @@
     "latitude": 34.02441943,
     "floor": "2nd Floor",
     "blurb": "Zaha Mohammad Hadid was an Iraqi-born British architect whose visionary designs radically expanded the boundaries of architecture. Hadid’s early work blurred the line between art and architecture as she used abstraction, fragmentation and movement to create new kinds of spaces. As her career progressed, her futuristic, international projects incorporating fluid lines and unconventional shapes earned her the nickname \"queen of the curve.” Hadid’s major projects include the Broad Art Museum in Michigan; the National Museum of 21st Century Arts in Rome; and the London Olympics Aquatics Centre. She was named one of the world’s most influential people by TIME Magazine and was the first woman awarded the Pritzker Architecture Prize, the highest honor in the profession.",
-    "quote": "I don't think that architecture is only about shelter, only about a very simple enclosure. It should be able to excite you, to calm you, to make you think.”"
+    "quote": "I don't think that architecture is only about shelter, only about a very simple enclosure. It should be able to excite you, to calm you, to make you think.”",
+    "": "",
+    "Email": "Jonah.R23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 41,
@@ -612,7 +772,11 @@
     "latitude": 34.023743,
     "floor": "1st Floor",
     "blurb": "Stephen Hawking is known for his groundbreaking work in physics and cosmology. At the age of 21, Hawking was diagnosed\nwith ALS (Amyotrophic Lateral Sclerosis). Despite his debilitating illness, he went on to become one of the most renowned\nscientists of our day. In the 1970s Hawking showed that matter is capable of escaping from the extreme gravitational forces of\nblack holes in the form of radiation, which was named Hawking Radiation in his honor. Hawking made some of the most arcane\nideas of cosmology accessible to the public in his internationally acclaimed book A Brief History of Time. He spent 30 years as\na mathematics professor at the University of Cambridge and is now its director of research at the Department of Applied\nMathematics and Theoretical Physics.",
-    "quote": "My goal is simple. It is complete understanding of the universe, why it is as it is and why it exists at all.”"
+    "quote": "My goal is simple. It is complete understanding of the universe, why it is as it is and why it exists at all.”",
+    "": "",
+    "Email": "Nathan.G24@K12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 42,
@@ -622,12 +786,16 @@
     "date": "1890-1980",
     "profession": "Mathematician, Educator, Activist",
     "imageName": "haynes",
-    "imageExtension": ".jpg",
+    "imageExtension": ".jpeg",
     "longitude": -118.4727892,
     "latitude": 34.0244514,
     "floor": "2nd Floor",
     "blurb": "Martha Euphemia Lofton Haynes was the first African American woman to earn a Ph.D. in mathematics, awarded by the Catholic University of America in 1943. Haynes taught in Washington, D.C. public schools and became the first woman to serve on the D.C. Board of Education. She fought to end school segregation as well as the \"track system,” which discriminated against African American and low-income students. Haynes was a professor of mathematics at the University of the District of Columbia and chaired the division of mathematics and business education, which was dedicated to training African American teachers.",
-    "quote": "In whatever corner of the world they may find themselves, mathematicians, like all scientists, are bonded together by a universal desire to understand life.”"
+    "quote": "In whatever corner of the world they may find themselves, mathematicians, like all scientists, are bonded together by a universal desire to understand life.”",
+    "": "",
+    "Email": "Jaden.L24@K12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 43,
@@ -642,7 +810,11 @@
     "latitude": 34.0242,
     "floor": "TBD",
     "blurb": "According to ancient tradition, Homer was the poet who composed the Greek epic poems \"The Iliad” and \"The Odyssey.” It isn’t clear whether a single poet by that name ever existed: Some scholars suggest that Homer was simply the poet who officially recorded orally shared versions of the poems. Whoever he was, and whenever he lived, the works remain two of the most enduring and influential pieces of literature.",
-    "quote": "...A friend with an understanding heart is worth no less than a brother.”"
+    "quote": "...A friend with an understanding heart is worth no less than a brother.”",
+    "": "",
+    "Email": "Sirui.T24@K12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 44,
@@ -652,12 +824,16 @@
     "date": "1906-1992",
     "profession": "Navy and American Computer Scientist",
     "imageName": "hopper",
-    "imageExtension": ".jpg",
+    "imageExtension": ".jpeg",
     "longitude": -118.4737159,
     "latitude": 34.02517885,
     "floor": "1st Floor",
     "blurb": "Considered by many to be the mother of computing, Rear Admiral \"Amazing Grace” Hopper left the Vassar College mathematics faculty to join the Navy reserve program WAVES in 1943, leading to her assignment to the programming team of one of the first computing engines and her development of the first compiler that translated English language code into the binary system that computers read. She received the National Medal of Technology and Innovation in 1991 and was posthumously awarded the Presidential Medal of Freedom by President Obama. A conference for women in technology, the Grace Hopper Celebration of Women in Computing, was founded after her death.",
-    "quote": "The most damaging phrase in the English language is: It’s always been done that way.”"
+    "quote": "The most damaging phrase in the English language is: It’s always been done that way.”",
+    "": "",
+    "Email": "Lucas.K24@K12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 45,
@@ -670,9 +846,13 @@
     "imageExtension": ".jpg",
     "longitude": -118.4727163,
     "latitude": 34.02441943,
-    "floor": "TBD",
+    "floor": "3rd Floor",
     "blurb": "Katherine Johnson was a trailblazing mathematician whose work helped make space travel a reality. Throughout her life, Johnson rejected the societal norms that limited opportunities for women and people of color. She was one of the first African American women to work for NASA, where her calculations of orbital mechanics were critical to the success of the first crewed space flight. Her tremendous mathematical capabilities earned her a reputation as a \"human computer.” During her 33 years at NASA, she was also involved with the Space Shuttle, Mission to Mars and many other projects. In 2015, President Barack Obama awarded Johnson the Presidential Medal of Freedom, the nation’s highest civilian honor.",
-    "quote": "We will always have STEM with us. Some things will drop out of the public eye and will go away, but there will always be science, engineering and technology. And there will always, always be mathematics.”"
+    "quote": "We will always have STEM with us. Some things will drop out of the public eye and will go away, but there will always be science, engineering and technology. And there will always, always be mathematics.”",
+    "": "",
+    "Email": "Ethan.L23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 46,
@@ -687,7 +867,11 @@
     "latitude": 34.0242,
     "floor": "2nd Floor",
     "blurb": "Barbara Jordan, the first African American congresswoman from the Deep South, grew up poor but overcame the odds to become a lawyer known for brilliant oratory and a strong commitment to social justice. During the civil rights era, she fought against racism and spoke up courageously for immigrant rights. A true trailblazer, Jordan declared to Congress, \"My presence here is one additional bit of evidence that the American dream need not forever be deferred.”",
-    "quote": "What the people want is simple: They want an America as good as its promise.”"
+    "quote": "What the people want is simple: They want an America as good as its promise.”",
+    "": "",
+    "Email": "Harry.W23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 47,
@@ -702,7 +886,11 @@
     "latitude": 34.0242,
     "floor": "1st Floor",
     "blurb": "Frida Kahlo is widely considered one of Mexico’s greatest artists. Her work, full of lush, beautiful colors, paired autobiographical elements with pure fantasy to create a distinctive style of magical realism. Kahlo was a free spirit who was known for exploring questions of identity, post-colonialism, gender, class and race in society through her art.",
-    "quote": "Feet, what do I need you for when I have wings to fly?”"
+    "quote": "Feet, what do I need you for when I have wings to fly?”",
+    "": "",
+    "Email": "Hudson.A24@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 48,
@@ -717,7 +905,11 @@
     "latitude": 34.0242,
     "floor": "1st Floor",
     "blurb": "When Helen Keller was 2 years old, she was struck by an illness that left her blind and deaf. With the help of her teacher, Anne Sullivan, Helen learned to read, speak and express herself through writing. She graduated from college and wrote several books, including her inspirational memoir, \"The Story of My Life.” Helen was an ardent activist for women’s rights as well as a spokesperson and hero for people with disabilities. She was one of the founders of the American Civil Liberties Union, which continues to fight for equal rights for all Americans.",
-    "quote": "The best and most beautiful things in the world cannot be seen or even touched—they must be felt with the heart.”"
+    "quote": "The best and most beautiful things in the world cannot be seen or even touched—they must be felt with the heart.”",
+    "": "",
+    "Email": "Brody.A24@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 49,
@@ -732,7 +924,11 @@
     "latitude": 34.0242,
     "floor": "2nd Floor",
     "blurb": "Martin Luther King Jr. was a civil rights leader who advocated for nonviolent resistance and direct action in the face of discrimination, racism and fear. A Baptist minister and powerful orator, King delivered his famous \"I Have a Dream” speech during the 1963 March on Washington for Jobs and Freedom. He led protest rallies, spearheaded boycotts and planned campaigns that helped bring about social and political change for all Americans. King was tragically assassinated at the height of his influence but remains one of the most important fighters for justice in American history.",
-    "quote": "Injustice anywhere is a threat to justice everywhere.”"
+    "quote": "Injustice anywhere is a threat to justice everywhere.”",
+    "": "",
+    "Email": "Bodie.W25@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 50,
@@ -742,12 +938,16 @@
     "date": "1919-2005",
     "profession": "Activist, Author",
     "imageName": "korematsu",
-    "imageExtension": ".jpg",
+    "imageExtension": ".jpeg",
     "longitude": -118.4743849,
     "latitude": 34.0241944,
     "floor": "1st Floor",
     "blurb": "After the 1941 Japanese attack on Pearl Harbor, the U.S. government authorized the internment of Japanese Americans in camps throughout the U.S. The Oakland-born Korematsu went into hiding and was subsequently arrested; his case eventually reached the U.S. Supreme Court. Although the Court upheld the legality of Korematsu’s internment, his stance illuminated for the nation the injustice of the camps. Korematsu remained a civil rights activist for his entire life. In 1998, President Bill Clinton awarded Korematsu the Presidential Medal of Freedom, the highest civilian honor in the U.S.",
-    "quote": "If you have the feeling that something is wrong, don’t be afraid to speak up.”"
+    "quote": "If you have the feeling that something is wrong, don’t be afraid to speak up.”",
+    "": "",
+    "Email": "Navid.R23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 51,
@@ -757,27 +957,35 @@
     "date": "1910-1998",
     "profession": "Filmmaker",
     "imageName": "kurosawa",
-    "imageExtension": ".jpg",
+    "imageExtension": ".png",
     "longitude": -118.4734946,
     "latitude": 34.02432719,
-    "floor": "Akira Kurosawa was a Japanese filmmaker of great renown. Some of his famous works include the",
-    "blurb": "Akira Kurosawa",
-    "quote": "In a mad world, only the mad are sane.”"
+    "floor": "2nd Floor",
+    "blurb": "Akira Kurosawa was a Japanese filmmaker and painter who directed thirty films in a career spanning over five decades. He is widely regarded as one of the most important and influential filmmakers in the history of cinema.",
+    "quote": "In a mad world, only the mad are sane.”",
+    "": "",
+    "Email": "Jude.S23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 52,
     "room": "Lee",
-    "fullName": "TBD",
+    "fullName": "Spike Lee",
     "building": "1745 Building",
-    "date": "TBD",
-    "profession": "TBD",
-    "imageName": "TBD",
+    "date": "1957- Present",
+    "profession": "Filmmaker",
+    "imageName": "lee",
     "imageExtension": ".png",
-    "longitude": 0,
-    "latitude": 0,
+    "longitude": -118.4727163,
+    "latitude": 34.02441943,
     "floor": "2nd Floor",
-    "blurb": "TBD",
-    "quote": "TBD"
+    "blurb": "Shelton Jackson \"Spike\" Lee is an American filmmaker and actor. Lee's work has continually explored race relations, issues within the black community, the role of media in contemporary life, urban crime and poverty, and other political issues.",
+    "quote": "You have to do the research. If you don't know about something, then you ask the right people who do.",
+    "": "",
+    "Email": "Dara.I23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 53,
@@ -792,7 +1000,11 @@
     "latitude": 34.0241916,
     "floor": "1st Floor",
     "blurb": "Gottfried Wilhelm Leibniz was a German polymath active as a mathematician, philosopher, scientist and diplomat. He is one of the most prominent figures in both the history of philosophy and the history of mathematics. He wrote works on philosophy, theology, ethics, politics, law, history and philology.",
-    "quote": "Take what you need, do what you should, you will get what you want."
+    "quote": "Take what you need, do what you should, you will get what you want.",
+    "": "",
+    "Email": "Luke.A23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 54,
@@ -807,7 +1019,11 @@
     "latitude": 34.0241944,
     "floor": "1st Floor",
     "blurb": "Abraham Lincoln was an American lawyer and statesman who served as the 16th president of the United States from 1861 until his assassination in 1865.",
-    "quote": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.”"
+    "quote": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.”",
+    "": "",
+    "Email": "Ry.N24@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 55,
@@ -817,12 +1033,16 @@
     "date": "1934-1992",
     "profession": "Feminist, Writer, Activist",
     "imageName": "lorde",
-    "imageExtension": ".jpg",
+    "imageExtension": ".jpeg",
     "longitude": -118.4727163,
     "latitude": 34.02441943,
-    "floor": "TBD",
+    "floor": "3rd Floor",
     "blurb": "A self-described \"black, lesbian, mother, warrior, poet,” Audre Lorde dedicated both her life and her creative talent to confronting and addressing injustices of racism, sexism, classism, and homophobia.",
-    "quote": "TBD"
+    "quote": "It is not our differences that divide us. It is our inability to recognize, accept, and celebrate those differences.",
+    "": "",
+    "Email": "Andy.S24@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 56,
@@ -837,7 +1057,11 @@
     "latitude": 34.023743,
     "floor": "1st Floor",
     "blurb": "Rhoda Makoff, Ph.D., co-founded Crossroads School in 1971 and was its first director. Prior to\nthat, she was a U.S. Public Health Fellow in Harvard Medical School’s Department of\nBiochemistry. She left Crossroads in 1974 to continue her career as a biochemist, working as a\nresearch endocrinologist and adjunct assistant professor in the Department of Medicine at\nUCLA Center for the Health Sciences in diabetes and kidney-related subjects. Rhoda was the\nfounder, president and CEO of Makoff R&D Laboratories, Inc., which developed pharmaceutical\nproducts for kidney disease. An avid backpacker, Rhoda hiked Mt. Whitney many times and\nhiked Mt. Kilimanjaro in Tanzania twice.",
-    "quote": "Happiness is learning something new. Joy is using this knowledge creatively. Ecstasy is\nusing this creation to further the knowledge of others.”"
+    "quote": "Happiness is learning something new. Joy is using this knowledge creatively. Ecstasy is\nusing this creation to further the knowledge of others.”",
+    "": "",
+    "Email": "Levi.G23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 57,
@@ -852,7 +1076,11 @@
     "latitude": 34.0242,
     "floor": "TBD",
     "blurb": "Thurgood Marshall was a lawyer and the first African American Supreme Court justice. As an attorney, he won the landmark desegregation case Brown v. Board of Education. Growing up in Baltimore, he experienced racial discrimination, sparking his passion for civil rights. Marshall’s family debated current events, and his father often brought him to observe legal proceedings in courtrooms. When he misbehaved in school, Marshall was forced to read the Constitution as a punishment; by graduation, he knew the document backward and forward.",
-    "quote": "In recognizing the humanity of our fellow beings, we pay ourselves the highest tribute.”"
+    "quote": "In recognizing the humanity of our fellow beings, we pay ourselves the highest tribute.”",
+    "": "",
+    "Email": "Jake.M23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 58,
@@ -863,11 +1091,15 @@
     "profession": "TBD",
     "imageName": "TBD",
     "imageExtension": ".png",
-    "longitude": 0,
-    "latitude": 0,
+    "longitude": "34.024732340071594,",
+    "latitude": -118.4734086,
     "floor": "TBD",
     "blurb": "TBD",
-    "quote": "TBD"
+    "quote": "TBD",
+    "": "",
+    "Email": "Dylan.G24@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 59,
@@ -882,7 +1114,11 @@
     "latitude": 34.0243,
     "floor": "2nd Floor",
     "blurb": "The pseudonym Gabriela Mistral was used by Chilean poet-diplomat Lucila Godoy Alcayaga, who was also an educator and humanist. She was the first writer from Latin America to win the Nobel Prize for Literature in 1945 for her lyric poetry, which was motivated by intense feelings and made her name a representation of the idealistic ambitions of the entire region. Nature, betrayal, love, a mother's love, sadness and recovery, travel, and Latin American identity as developed from a mixture of Native American and European influences are some of the major topics of her poems.",
-    "quote": "Writing tends to cheer me; it always soothes my spirit and blesses me with the gift of an innocent, tender, childlike day. It is the sensation of having spent a few hours in my homeland, with my customs, free whims, my total freedom.”"
+    "quote": "Writing tends to cheer me; it always soothes my spirit and blesses me with the gift of an innocent, tender, childlike day. It is the sensation of having spent a few hours in my homeland, with my customs, free whims, my total freedom.”",
+    "": "",
+    "Email": "Paige.B23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 60,
@@ -897,7 +1133,11 @@
     "latitude": 34.0241916,
     "floor": "1st Floor",
     "blurb": "Chloe Anthony Wofford Morrison, known as Toni Morrison, was an American novelist. Her first novel, The Bluest Eye, was published in 1970. The critically acclaimed Song of Solomon brought her national attention and won the National Book Critics Circle Award.",
-    "quote": "If there's a book that you want to read, but it hasn't been written yet, then you must write it.”"
+    "quote": "If there's a book that you want to read, but it hasn't been written yet, then you must write it.”",
+    "": "",
+    "Email": "Kate.J23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 61,
@@ -906,13 +1146,17 @@
     "building": "Arts Building",
     "date": "1928-2015",
     "profession": "Mathematician",
-    "imageName": "nash.jpg",
+    "imageName": "nash",
     "imageExtension": ".png",
     "longitude": -118.4734946,
     "latitude": 34.02432719,
     "floor": "2nd Floor",
     "blurb": "Known for the originality of his thinking and for his fearlessness in solving problems, John Forbes Nash Jr. is the only person to receive both the Nobel Prize in economics and the Abel Prize for mathematics. His work focused on game theory, differential geometry and the study of partial differential equations. Nash accomplished these intellectual feats while fighting serious mental illness. Still inspiring American mathematicians today, Nash saw old problems from a new perspective.",
-    "quote": "...Rationality of thought imposes a limit on a person’s concept of his relation to the cosmos.”"
+    "quote": "...Rationality of thought imposes a limit on a person’s concept of his relation to the cosmos.”",
+    "": "",
+    "Email": "Cole.Z23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 62,
@@ -927,7 +1171,11 @@
     "latitude": 34.0242,
     "floor": "1st Floor",
     "blurb": "Sir Isaac Newton, an English scientist, contributed to the fields of physics, mathematics, astronomy and chemistry. He created the modern telescope, worked on universal gravitation and developed the three laws of motion that laid the groundwork for classical mechanics. To explain his theories of gravitation and motion, he helped create a new form of mathematics, calculus, which is invaluable today for engineers, scientists and mathematicians.",
-    "quote": "To myself I seem to have been only like a boy playing on the seashore and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me.”"
+    "quote": "To myself I seem to have been only like a boy playing on the seashore and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me.”",
+    "": "",
+    "Email": "Jonah.R23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 63,
@@ -942,7 +1190,11 @@
     "latitude": 34.0242,
     "floor": "TBD",
     "blurb": "Emmy Noether was a brilliant German mathematician who made great contributions to the mathematical theories of rings, fields and symmetries. Noether accomplished her work in the face of daunting prejudice: As a woman, she was held back in her university teaching career for many years and as a Jew, she was fired and fled Germany for the U.S. when the Nazis rose to power. But her determination and work never faltered, and she is often called the most important woman in the history of mathematics.",
-    "quote": "My [algebraic] methods are really methods of working and thinking; this is why they have crept in everywhere anonymously.”"
+    "quote": "My [algebraic] methods are really methods of working and thinking; this is why they have crept in everywhere anonymously.”",
+    "": "",
+    "Email": "Nathan.G24@K12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 64,
@@ -952,12 +1204,16 @@
     "date": "1887 - 1986",
     "profession": "Artist",
     "imageName": "okeefe",
-    "imageExtension": ".jpg",
+    "imageExtension": ".jpeg",
     "longitude": -118.47351,
     "latitude": 34.0242,
     "floor": "2nd Floor",
     "blurb": "Georgia O'Keeffe was an American artist who painted nature in a way that showed how it made her feel. She is best known for her paintings of flowers and desert landscapes.",
-    "quote": "I've been absolutely terrified every moment of my life and I've never let it keep me from a single thing that I wanted to do."
+    "quote": "I've been absolutely terrified every moment of my life and I've never let it keep me from a single thing that I wanted to do.",
+    "": "",
+    "Email": "Jaden.L24@K12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 65,
@@ -972,7 +1228,11 @@
     "latitude": 34.023743,
     "floor": "1st Floor",
     "blurb": "Olduvai Gorge is located in the Great Rift Valley of Africa, in the country of Tanzania. The gorge is one of the most important\npaleoanthropology sites ever discovered, yielding fossils that have largely shaped our modern view of human evolution. In 1960\nat Olduvai, archeologist Mary Leakey and her son Jonathan were the first to discover roughly 2-million-year-old fossils of Homo\nhabilis, the earliest known ancestor to share modern human’s (Homo sapiens) same genus. Olduvai continues to be an important\nsite for paleoanthropologists today.",
-    "quote": "Fossils are like truth. They are not where you look for them, but where you find them.”\n–G.H.R. von Koenigswald, Paleontologist"
+    "quote": "Fossils are like truth. They are not where you look for them, but where you find them.”\n–G.H.R. von Koenigswald, Paleontologist",
+    "": "",
+    "Email": "Sirui.T24@K12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 66,
@@ -987,7 +1247,11 @@
     "latitude": 34.02432719,
     "floor": "1st Floor",
     "blurb": "N/A",
-    "quote": "N/A"
+    "quote": "N/A",
+    "": "",
+    "Email": "Lucas.K24@K12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 67,
@@ -1002,7 +1266,11 @@
     "latitude": 34.02517885,
     "floor": "1st Floor",
     "blurb": "Price is credited with elevating the visibility of ceramics as an art form. His small- to moderate-scale geometric ceramic sculptures feature vibrant color, unusual textures and rounded organic forms. He studied at the storied Chouinard Art Institute in Los Angeles and earned degrees from USC and the New York State College of Ceramics. Price made his artistic debut in 1960 at LA’s legendary Ferus Gallery, where he became briefly identified with the \"LA Cool School.” Price’s work is found in the collections of LACMA, the Metropolitan Museum of Art, MOMA and the Victoria and Albert Museum.",
-    "quote": "I’m in a productive period. ... I call it ‘the highway to the unconscious’ and that’s where I like to be. In that place where you’re receptive, your mind goes quiet and before too long, all kinds of possibilities come.”"
+    "quote": "I’m in a productive period. ... I call it ‘the highway to the unconscious’ and that’s where I like to be. In that place where you’re receptive, your mind goes quiet and before too long, all kinds of possibilities come.”",
+    "": "",
+    "Email": "Ethan.L23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 68,
@@ -1011,13 +1279,17 @@
     "building": "Trives Admin",
     "date": "570 BCE - 495 BCE",
     "profession": "Philosopher",
-    "imageName": "Pythagoras",
+    "imageName": "pythagoras",
     "imageExtension": ".jpg",
     "longitude": 34.024205,
     "latitude": -118.474056,
     "floor": "2nd Floor",
     "blurb": "Pythagoras was an ancient Greek Philosopher, influencing the work of most of the west.. He's best known for his writing on \" metempsychosis\", or the claim that every soul is immortal and will enter a new body after death.",
-    "quote": "Rest satisfied with doing well, and leave others to talk of you as they will.\n"
+    "quote": "Rest satisfied with doing well, and leave others to talk of you as they will.\n",
+    "": "",
+    "Email": "Harry.W23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 69,
@@ -1032,7 +1304,11 @@
     "latitude": 34.02517885,
     "floor": "1st Floor",
     "blurb": "Jackie Roosevelt Robinson made history on April 15, 1947, when he broke the color barrier as the first African American to play in Major League Baseball as a member of the Brooklyn Dodgers. The eventual world champion, league MVP, Rookie of the Year and Hall of Fame inductee persevered through a constant barrage of bean balls, hate mail, insults and threats because of his skin color. Displaying both courage and grace through his actions, he inspired a generation of Black Americans to question the doctrine of \"separate but equal” and helped pave the way for the civil rights movement. In 1965, he became the first African American TV sports analyst on ABC’s \"Game of the Week” telecasts. He was posthumously honored with the Presidential Medal of Freedom and Congressional Gold Medal for his contributions to American society.",
-    "quote": "A life is not important except in the impact it has on other lives.”"
+    "quote": "A life is not important except in the impact it has on other lives.”",
+    "": "",
+    "Email": "Hudson.A24@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 70,
@@ -1043,11 +1319,15 @@
     "profession": "TBD",
     "imageName": "TBD",
     "imageExtension": ".png",
-    "longitude": 0,
-    "latitude": 0,
+    "longitude": 34.024205,
+    "latitude": -118.474056,
     "floor": "1st Floor",
     "blurb": "TBD",
-    "quote": "TBD"
+    "quote": "TBD",
+    "": "",
+    "Email": "Brody.A24@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 71,
@@ -1057,12 +1337,16 @@
     "date": "1912-1987",
     "profession": "Activist",
     "imageName": "rustin",
-    "imageExtension": ".jpg",
+    "imageExtension": ".jpeg",
     "longitude": -118.4727163,
     "latitude": 34.02441943,
     "floor": "TBD",
     "blurb": "Bayard Rustin spent his life at the forefront of civic action, working for peace, civil rights and social justice. A close advisor to Martin Luther King Jr., Ruskin helped organize many of the significant protests of the Civil Rights Movement, including the 1941 March on Washington, the Freedom Rides and the 1963 March on Washington for Jobs and Freedom. He went on to work for integration and unionization of African American workers as head of the AFL-CIO’s A. Philip Randolph Institute. An openly gay man, Ruskin became a strong advocate for LGBTQ equality in the 1980s. He also served on many international humanitarian missions to countries including Vietnam, Cambodia and Haiti.",
-    "quote": "TBD"
+    "quote": "TBD",
+    "": "",
+    "Email": "Bodie.W25@k12.xrds.org",
+    "Status": "Pending",
+    "__1": ""
   },
   {
     "id": 72,
@@ -1077,7 +1361,11 @@
     "latitude": 34.0242,
     "floor": "1st Floor",
     "blurb": "Born to a wealthy family on the island of Lesbos, Sappho was known as \"The Poetess” or, according to Plato, the \"Tenth Muse” and is the first known female poet. She is most notably remembered for her poetry about love. Other poets such as Plato, who lived a century later, quoted her words in their own work. One of her most famous poems, \"Fragment 31,” was imitated and translated by countless poets and writers from ancient times, and it continues to influence scholars and readers today.",
-    "quote": "You may forget but let me tell you this: Someone in some future time will think of us.”"
+    "quote": "You may forget but let me tell you this: Someone in some future time will think of us.”",
+    "": "",
+    "Email": "Navid.R23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 73,
@@ -1092,7 +1380,11 @@
     "latitude": 34.02517885,
     "floor": "1st Floor",
     "blurb": "Louis \"Satchmo” Armstrong overcame an impoverished childhood in New Orleans to become one of the most preeminent figures in jazz. Considered by many to be the first great jazz soloist, his inventive trumpet playing, charismatic personality and distinctive voice made him a larger-than-life figure in a career that spanned from the 1920s through the 1960s.",
-    "quote": "There isn't anything nicer to know and feel deep down in your heart that you have something, anything, that you've worked and strived for honestly, rather than to do a lot of ungodly things to get it. You appreciate it better.”"
+    "quote": "There isn't anything nicer to know and feel deep down in your heart that you have something, anything, that you've worked and strived for honestly, rather than to do a lot of ungodly things to get it. You appreciate it better.”",
+    "": "",
+    "Email": "Jude.S23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 74,
@@ -1103,11 +1395,15 @@
     "profession": "TBD",
     "imageName": "TBD",
     "imageExtension": ".png",
-    "longitude": 0,
-    "latitude": 0,
+    "longitude": -118.473956,
+    "latitude": 34.023743,
     "floor": "TBD",
     "blurb": "TBD",
-    "quote": "TBD"
+    "quote": "TBD",
+    "": "",
+    "Email": "Dara.I23@k12.xrds.org",
+    "Status": "_______",
+    "__1": ""
   },
   {
     "id": 75,
@@ -1122,7 +1418,11 @@
     "latitude": 34.02452,
     "floor": "2nd Floor",
     "blurb": "William Shakespeare was a renowned English playwright, poet, and actor of the Elizabethan and Jacobean eras. He is widely considered to be the greatest playwright in the English language and one of the most important figures in world literature.",
-    "quote": "To be, or not to be: that is the question: Whether 'tis nobler in the mind to suffer the slings and arrows of outrageous fortune, or to take arms against a sea of troubles, and by opposing end them?\" - Hamlet (Act 3, Scene 1)"
+    "quote": "To be, or not to be: that is the question: Whether 'tis nobler in the mind to suffer the slings and arrows of outrageous fortune, or to take arms against a sea of troubles, and by opposing end them?\" - Hamlet (Act 3, Scene 1)",
+    "": "",
+    "Email": "Luke.A23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 76,
@@ -1137,7 +1437,11 @@
     "latitude": 34.02452,
     "floor": "2nd Floor",
     "blurb": "William Shakespeare was a renowned English playwright, poet, and actor of the Elizabethan and Jacobean eras. He is widely considered to be the greatest playwright in the English language and one of the most important figures in world literature.",
-    "quote": "To be, or not to be: that is the question: Whether 'tis nobler in the mind to suffer the slings and arrows of outrageous fortune, or to take arms against a sea of troubles, and by opposing end them?\" - Hamlet (Act 3, Scene 1)"
+    "quote": "To be, or not to be: that is the question: Whether 'tis nobler in the mind to suffer the slings and arrows of outrageous fortune, or to take arms against a sea of troubles, and by opposing end them?\" - Hamlet (Act 3, Scene 1)",
+    "": "",
+    "Email": "Ry.N24@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 77,
@@ -1147,12 +1451,16 @@
     "date": "1948-",
     "profession": "Novelist, Poet, Professor",
     "imageName": "silko",
-    "imageExtension": ".jpg",
+    "imageExtension": ".jpeg",
     "longitude": -118.4727163,
     "latitude": 34.02441943,
     "floor": "2nd Floor",
     "blurb": "Leslie Marmon Silko is an accomplished author and a key figure in the resurgence of Native Americans literature, sometimes known as the Native American Renaissance. Marmon Silko is of Laguna Pueblo, Mexican and white ancestry and spent her childhood at the edge of the Laguna Pueblo reservation. In poems, novels and essays, she intertwines myths and traditional stories with her own recollections to explore themes including Native American alienation in white culture and the power of storytelling and ritual. Marmon Silko has also taught English at colleges and universities in Arizona and New Mexico. She has received numerous literary awards, including a National Endowment for the Arts Discovery Grant, a Pushcart Prize for Poetry and the MacArthur \"Genius” Award.",
-    "quote": "My old folks who raised me saw themselves as citizens of the world. We see no borders. When I write, I am writing to the world, not to the United States alone."
+    "quote": "My old folks who raised me saw themselves as citizens of the world. We see no borders. When I write, I am writing to the world, not to the United States alone.",
+    "": "",
+    "Email": "Andy.S24@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 78,
@@ -1167,7 +1475,11 @@
     "latitude": 34.02438,
     "floor": "TBD",
     "blurb": "TBD",
-    "quote": "TBD"
+    "quote": "TBD",
+    "": "",
+    "Email": "Levi.G23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 79,
@@ -1182,22 +1494,30 @@
     "latitude": 34.02441943,
     "floor": "2nd Floor",
     "blurb": "N/A",
-    "quote": "N/A"
+    "quote": "N/A",
+    "": "",
+    "Email": "Jake.M23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 80,
     "room": "Tenzing",
     "fullName": "Tenzing Norgay",
     "building": "US Admin",
-    "date": "N/A",
-    "profession": "N/A",
-    "imageName": "N/A",
+    "date": "TBD",
+    "profession": "TBD",
+    "imageName": "TBDD",
     "imageExtension": ".jpg",
-    "longitude": 0,
-    "latitude": 0,
+    "longitude": 34.02441103,
+    "latitude": 118.4739331,
     "floor": "1st Floor",
-    "blurb": "N/A",
-    "quote": "N/A"
+    "blurb": "TBD",
+    "quote": "TBD",
+    "": "",
+    "Email": "Dylan.G24@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 81,
@@ -1206,28 +1526,36 @@
     "building": "Cummins Library",
     "date": "N/A",
     "profession": "Testing Center",
-    "imageName": "TBD",
+    "imageName": "testingcenter",
     "imageExtension": ".png",
     "longitude": -118.4741697,
     "latitude": 34.0241916,
     "floor": "2nd Floor",
     "blurb": "A place where students are allowed to take missing assesments or retake tests and quizzes",
-    "quote": "TBD"
+    "quote": "TBD",
+    "": "",
+    "Email": "Paige.B23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 82,
     "room": "Theatre",
     "fullName": "Theatre",
     "building": "Theatre",
-    "date": "N/A",
+    "date": "1978 - Present",
     "profession": "Theatre",
-    "imageName": "TBD",
-    "imageExtension": ".png",
-    "longitude": 0,
-    "latitude": 0,
+    "imageName": "theatre",
+    "imageExtension": ".jpeg",
+    "longitude": -118.4742399,
+    "latitude": 34.02414052,
     "floor": "1st Floor",
-    "blurb": "N/A",
-    "quote": "N/A"
+    "blurb": "The Crossroads theatre",
+    "quote": "N/A",
+    "": "",
+    "Email": "Kate.J23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 83,
@@ -1242,7 +1570,11 @@
     "latitude": 34.0244514,
     "floor": "2nd Floor",
     "blurb": "James Francis Thorpe was the first Native American to win an Olympic gold medal for the U.S. and is considered to be one of the most versatile athletes in modern sports history. Thorpe was a member of the Sac and Fox Nation and his native name, Wa-Tho-Huk, translates as  \"Bright Path\" or \"Path Lit by Lightning.” At the 1912 Summer Olympics, he won gold medals in the pentathlon and decathlon. A year later, Thorpe was stripped of his medals when it was discovered he had once played minor league baseball, a violation of the Olympic Committee's strict rules around amateurism. After the games, he returned to finish a stunning college football career and went on to play professional football and baseball. The Olympic medals were fully reinstated to his name in 2022.",
-    "quote": "I never was content unless I was trying my skill in some game against my fellow playmates or testing my endurance and wits against some member of the animal kingdom.”"
+    "quote": "I never was content unless I was trying my skill in some game against my fellow playmates or testing my endurance and wits against some member of the animal kingdom.”",
+    "": "",
+    "Email": "Cole.Z23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 84,
@@ -1257,7 +1589,11 @@
     "latitude": 34.0244514,
     "floor": "2nd floor",
     "blurb": "Alan Turing was an English mathematician and pioneer in computer science. His visionary idea for a \"universal machine” that could recognize and perform instructions through computation is the forerunner of modern computers. Turing was fascinated by  the question of whether machines could think and laid the foundation for the field of artificial intelligence. During World War II, he worked for the British government decoding ciphers, including the Nazi’s \"Enigma” code, which helped the Allied Forces gain a critcal advantage over the German military. Despite his significant contributions to science and to his country, Turing was persecuted by the British government for being a gay man. In 2009, the British prime minister offered a posthumous apology for the terrible mistreatment Turing had endured.",
-    "quote": "Sometimes, it is the people no one can imagine anything of who do the things no one can imagine.”"
+    "quote": "Sometimes, it is the people no one can imagine anything of who do the things no one can imagine.”",
+    "": "",
+    "Email": "Jonah.R23@k12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 85,
@@ -1272,22 +1608,30 @@
     "latitude": 34.0241944,
     "floor": "1st Floor",
     "blurb": "The English Faculty Office.",
-    "quote": "N/A"
+    "quote": "N/A",
+    "": "",
+    "Email": "Nathan.G24@K12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 86,
     "room": "W. Center",
     "fullName": "W. Center",
     "building": "Cummins Library",
-    "date": 1970,
+    "date": "1970 - Present",
     "profession": "Writing Center",
-    "imageName": "TBD",
-    "imageExtension": ".png",
+    "imageName": "writing",
+    "imageExtension": ".jpeg",
     "longitude": -118.4741697,
     "latitude": 34.0241916,
     "floor": "2nd Floor",
     "blurb": "A place where students can write and read without the distraction of the bustling alley",
-    "quote": "Write and write and write and ..."
+    "quote": "Write and write and write and ...",
+    "": "",
+    "Email": "Jaden.L24@K12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 87,
@@ -1296,13 +1640,17 @@
     "building": "MS Building",
     "date": "TBD",
     "profession": "TBD",
-    "imageName": "TBD",
-    "imageExtension": ".png",
+    "imageName": "warrenlab",
+    "imageExtension": ".jpeg",
     "longitude": -118.47351,
     "latitude": 34.0242,
     "floor": "TBD",
     "blurb": "TBD",
-    "quote": "TBD"
+    "quote": "TBD",
+    "": "",
+    "Email": "Sirui.T24@K12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 88,
@@ -1317,7 +1665,11 @@
     "latitude": 34.02517885,
     "floor": "1st Floor",
     "blurb": "American artist Carrie Mae Weems’ conceptually complex and evocative images examine the legacy of African American identity, class and culture and reveal a visual narrative of the human condition. Holding a bachelor’s degree from the California Institute of the Arts and a master’s from UC San Diego, Weems has received a MacArthur fellowship \"Genius Grant” as well as a lifetime achievement award from the Congressional Black Caucus Foundation. Her photographs have been exhibited internationally and are held in the collections of major museums around the world.",
-    "quote": "Art allows us to navigate the more complicated parts of our lives in a way that is more palpable.”"
+    "quote": "Art allows us to navigate the more complicated parts of our lives in a way that is more palpable.”",
+    "": "",
+    "Email": "Lucas.K24@K12.xrds.org",
+    "Status": "Complete",
+    "__1": ""
   },
   {
     "id": 89,
@@ -1332,14 +1684,18 @@
     "latitude": 34.0242,
     "floor": "TBD",
     "blurb": "William Carlos Williams was one of the most influential American poets of the 20th century as well as a family doctor. Williams won the first-ever National Book Award for Poetry; became the consultant in poetry to the Library of Congress; and was awarded many other prizes. But his greatest legacy is the simplicity and beauty of his poems. Using memorable images from \"a red wheelbarrow” to \"plums that were in the icebox,” Williams built entire worlds with a few brief, perfectly chosen words.",
-    "quote": "It is difficult\n to get the news from poems\n yet men die miserably every day \n for lack\n of what is found there.”"
+    "quote": "It is difficult\n to get the news from poems\n yet men die miserably every day \n for lack\n of what is found there.”",
+    "": "",
+    "Email": "",
+    "Status": "_______",
+    "__1": ""
   },
   {
     "id": 90,
     "room": "Wonder",
     "fullName": "Stevie Wonder",
     "building": "1737 Building",
-    "date": "1950-",
+    "date": "1950- Present",
     "profession": "Musician, Producer, Philanthropist",
     "imageName": "wonder",
     "imageExtension": ".jpg",
@@ -1347,7 +1703,11 @@
     "latitude": 34.0244514,
     "floor": "3rd Floor",
     "blurb": "Stevie Wonder’s unique musical style, which blends elements of R&B, soul, gospel, jazz and funk, made him one of the most popular and celebrated musicians of the 20th century. Blind since shortly after his birth, Wonder (born Stevland Hardaway Judkins) began singing and playing multiple instruments as a young child. He was signed to Motown’s Tamia label at the age of 11 and given the stage name Little Stevie Wonder. Wonder is a gifted and innovative vocalist and pianist, a virtuoso harmonica player and pioneering record producer. He has also been a champion of Civil Rights and supports organizations tackling issues including hunger, homelessness and domestic abuse.",
-    "quote": "Just because a man lacks the use of his eyes doesn't mean he lacks vision.”"
+    "quote": "Just because a man lacks the use of his eyes doesn't mean he lacks vision.”",
+    "": "",
+    "Email": "",
+    "Status": "_______",
+    "__1": ""
   },
   {
     "id": 91,
@@ -1362,7 +1722,11 @@
     "latitude": 34.0241944,
     "floor": "1st Floor",
     "blurb": "Woolf was British writer who is widely recognized as one of the leaders of the experimental, nontraditional modernist movement in literature. Her works are lauded for her deft incorporation of nonlinear narrative, interior monologues and dreamlike sequences. Woolf was a member of the Bloomsbury Group, a circle of British philosophers, writers and artists. An early feminist and author of novels, essays and short stories, her most notable works include \"Mrs. Dalloway,” \"To the Lighthouse,” \"Orlando” and \"A Room of One’s Own.”",
-    "quote": "If you do not tell the truth about yourself, you cannot tell it about other people.”"
+    "quote": "If you do not tell the truth about yourself, you cannot tell it about other people.”",
+    "": "",
+    "Email": "",
+    "Status": "_______",
+    "__1": ""
   },
   {
     "id": 92,
@@ -1377,6 +1741,10 @@
     "latitude": 34.0242,
     "floor": "TBD",
     "blurb": "Malala Yousafzai is a human rights activist and Nobel Prize laureate who has advocated for the rights of women and girls all over the world to receive an education. When she was a teenager in Pakistan, she survived an assassination attempt by the Taliban, the ruling group that was attempting to prevent girls from attending school. She then went on to write an autobiography, \"I Am Malala,” that has inspired girls everywhere.",
-    "quote": "One child, one teacher, one book and one pen can change the world. Education is the only solution.”"
+    "quote": "One child, one teacher, one book and one pen can change the world. Education is the only solution.”",
+    "": "",
+    "Email": "",
+    "Status": "_______",
+    "__1": ""
   }
 ]
